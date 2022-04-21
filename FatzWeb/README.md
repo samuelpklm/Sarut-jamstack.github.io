@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Codigo fuente](https://github.com/samuelpklm/Sarut-jamstack.github.io/edit/main/FatzWeb)
+- Live Site URL: [Epiccionables](https://steady-kataifi-acc3c0.netlify.app/)
 
 ## My process
 
