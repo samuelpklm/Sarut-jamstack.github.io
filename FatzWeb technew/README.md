@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution web tech new](https://github.com/samuelpklm/Sarut-jamstack.github.io/edit/main/FatzWeb%20technew)
+- Live Site URL: [web tech new](https://bright-platypus-a216b5.netlify.app/)
 
 ## My process
 
